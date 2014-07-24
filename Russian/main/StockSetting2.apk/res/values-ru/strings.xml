@@ -1,0 +1,12 @@
+  <?xml version="1.0" encoding="utf-8" ?> 
+- <resources>
+  <string name="app_name">Настройки Samsung</string> 
+  <string name="ZOE">Works with ZOE</string> 
+  <string name="stock_album">HTC Album</string> 
+  <string name="power_saver">Энергосбережение</string> 
+  <string name="display">Дисплей</string> 
+  <string name="smart_screen">Умный экран</string> 
+  <string name="spen">Перо S Pen</string> 
+  <string name="led">LED indicator</string> 
+  <string name="wfd_settings_title">Screen Mirroring</string> 
+  </resources>

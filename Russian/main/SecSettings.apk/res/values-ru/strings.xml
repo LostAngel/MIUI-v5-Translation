@@ -910,7 +910,7 @@ Wi-Fi and Mobile Hotspot cannot run at the same time"</string>
     <string name="dock_sounds_enable_title">Звуки для подставки</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звуки при установке в порт и извлечении</string>
     <string name="dock_sounds_enable_summary_off">Не воспроизводить звуки при установке в порт и извлечении</string>
-    <string name="cover">Внешний дисплей</string>
+    <string name="cover">Чехол S View</string>
     <string name="automatic_unlock">Автоматическая разблокировка</string>
     <string name="automatic_unlock_summary">Включите отображение, когда крышка отрывается от экрана</string>
     <string name="account_settings">Учетные записи</string>
@@ -3474,5 +3474,17 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="pen_detachment_category_title">Отключение пера</string>
 	<string name="pen_detachment_option">Действие при извлечении пера</string>
     <string name="pen_detachment_option_action_memo">Активная заметка</string>
-    <string name="pen_detachment_option_air_command">Контекстные команды</string>    
+    <string name="pen_detachment_option_air_command">Контекстные команды</string>
+    <string name="sview_color">Цвет окна S View</string>
+    <string name="all_screen_title">Испол. для всех экранов</string>
+    <string name="all_screen_summary">Использование выбранного фона на экранах звонков, музыки, будильника и сообщений</string>
+    <string name="random_background_title">Случайный цвет</string>
+    <string name="random_background_summary">Ежедневный случайный выбор цвета окна S View</string>
+    <string name="select_info_title">Изм. сведения на обложке</string>
+    <string name="screen_mode_auto">Оптимизировать дисплей</string>
+    <string name="screen_mode_auto_summary">В этом режиме происходит автоматическая оптимизация изображения до наилучшего качества</string>
+    <string name="screen_mode_auto_description">"В этом режиме происходит автоматическая оптимизация цветового диапазона, насыщенности и резкости изображения для следующих приложений:
+%s
+
+Оптимизация не распространяется на приложения сторонних производителей"</string>    
 </resources>
